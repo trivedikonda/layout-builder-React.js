@@ -1,0 +1,12 @@
+/* Write your CSS here */
+.header-container {
+  background-color: #cbd5e1;
+  width: 800px;
+  min-width: 600px;
+  text-align: center;
+}
+
+.heading {
+  font-size: 30px;
+  color: #475569;
+}

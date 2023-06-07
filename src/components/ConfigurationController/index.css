@@ -1,0 +1,25 @@
+/* Write your CSS here */
+.main-heading {
+  font-size: 30px;
+}
+
+.configuration-controller-container {
+  background-color: #475569;
+  padding: 10px;
+  color: #ffffff;
+  padding-left: 90px;
+  border: 3px solid black;
+}
+
+.input-label-container {
+  margin-bottom: 15px;
+  font-size: 16px;
+}
+
+.checkbox-input {
+  margin-right: 10px;
+}
+
+.label-name {
+  font-weight: 600;
+}
